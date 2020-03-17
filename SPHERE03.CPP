@@ -1,3 +1,4 @@
+//sphere paracalc OOP
 #include<iostream.h>
 #include<conio.h>
 class sphere
